@@ -1,0 +1,12 @@
+{
+  "author": "Joachim Brørs Sommerfeld",
+  "quickApps": [
+    {
+      "name": "AMS Reader QA",
+      "uid": "JBS64",
+      "description": "AMS Reader HAN/P1 Energy Meter QA",
+      "url": "https://api.github.com/repos/alice/my-sensor/",
+      "fqa": "releases/MySensor.fqa"
+    }
+  ]
+}
