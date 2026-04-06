@@ -5,7 +5,7 @@
       "name": "AMS Reader QA",
       "uid": "JBS64",
       "description": "AMS Reader HAN/P1 Energy Meter QA",
-      "url": "https://api.github.com/repos/alice/my-sensor/",
+      "url": "https://github.com/Brors94/HC3Quickapps/blob/main/AMS%20Reader/AMS_Reader.fqa/",
       "fqa": "releases/MySensor.fqa"
     }
   ]
