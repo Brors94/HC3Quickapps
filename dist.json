@@ -8,7 +8,8 @@
       "url": "https://api.github.com/repos/Brors94/Ams-Reader/",
       "fqa": "AMS_Reader.fqa",    
       "versionFile": "main",
-      "versionPattern": "local VERSION = \"([^\"]+)\""
+      "versionPattern": "local VERSION = \"([^\"]+)\"",
+      "ignore": ["Config"]
     },
         {
       "name": "Brors: Settings Overview",
