@@ -7,6 +7,13 @@
       "description": "AMS Reader HAN/P1 Energy Meter QA",
       "url": "https://api.github.com/repos/Brors94/HC3Quickapps/",
       "fqa": "AMS%20Reader/AMS_Reader.fqa"
+    },
+        {
+      "name": "Brors: Settings Overview",
+      "uid": "JBS980",
+      "description": "AMS Reader HAN/P1 Energy Meter QA",
+      "url": "https://api.github.com/repos/Brors94/HC3Quickapps/",
+      "fqa": "AMS%20Reader/AMS_Reader.fqa"
     }
   ]
 }
