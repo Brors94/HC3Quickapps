@@ -2,17 +2,17 @@
   "author": "Joachim Brørs Sommerfeld",
   "quickApps": [
     {
-      "name": "Brors: AMS Reader",
+      "name": "Brors: 64.AMS Reader",
       "uid": "JBS64",
       "description": "AMS Reader HAN/P1 Energy Meter QA",
       "url": "https://api.github.com/repos/Brors94/Ams-Reader/",
-      "fqa": "AMS_Reader.fqa",    
+      "fqa": "64._AMS_Reader.fqa",    
       "versionFile": "main",
       "versionPattern": "local VERSION = \"([^\"]+)\"",
       "ignore": ["Config"]
     },
         {
-      "name": "Brors: Settings Overview",
+      "name": "Brors: 980.Settings Overview",
       "uid": "JBS980",
       "description": "AMS Reader HAN/P1 Energy Meter QA",
       "url": "https://api.github.com/repos/Brors94/Settings-Overview/",
