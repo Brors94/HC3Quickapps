@@ -6,7 +6,7 @@
       "uid": "JBS30",
       "description": "Profile Light Controller to Automate Room Light Control",
       "url": "https://api.github.com/repos/Brors94/30.Profile-Light-Controller/",
-      "fqa": "64._AMS_Reader.fqa",    
+      "fqa": "30.Profile_Light_Controller.fqa",    
       "versionFile": "main",
       "versionPattern": "local VERSION = \"([^\"]+)\"",
       "ignore": ["Config"]
