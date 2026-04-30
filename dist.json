@@ -10,6 +10,15 @@
       "versionFile": "main",
       "versionPattern": "local VERSION = \"([^\"]+)\"",
       "ignore": ["Config"]
+    },{
+      "name": "Brors: 31.Scene Controller",
+      "uid": "JBS31",
+      "description": "Scene Controller to Automate make scenes with settings Lights like you want them then save them with a press of a button, instead of making scenarios and block scenes",
+      "url": "https://api.github.com/repos/Brors94/30.Profile-Light-Controller/",
+      "fqa": "31.Scene_Controller.fqa",    
+      "versionFile": "main",
+      "versionPattern": "local VERSION = \"([^\"]+)\"",
+      "ignore": ["Config"]
     },
     {
       "name": "Brors: 64.AMS Reader",
