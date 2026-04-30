@@ -2,6 +2,16 @@
   "author": "Brors94",
   "quickApps": [
     {
+      "name": "Brors: 30.Profile Light Controller",
+      "uid": "JBS30",
+      "description": "Profile Light Controller to Automate Room Light Control",
+      "url": "https://api.github.com/repos/Brors94/30.Profile-Light-Controller/",
+      "fqa": "64._AMS_Reader.fqa",    
+      "versionFile": "main",
+      "versionPattern": "local VERSION = \"([^\"]+)\"",
+      "ignore": ["Config"]
+    },
+    {
       "name": "Brors: 64.AMS Reader",
       "uid": "JBS64",
       "description": "AMS Reader HAN/P1 Energy Meter QA",
