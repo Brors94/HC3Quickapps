@@ -28,6 +28,15 @@
       "versionFile": "main",
       "versionPattern": "local VERSION = \"([^\"]+)\"",
       "ignore": ["Config"]
+    },{
+      "name": "Brors: 33.Outdoor Light Controller",
+      "uid": "JBS33",
+      "description": "Automate your outdoorlight with a few click of setup after sunset and sunrise",
+      "url": "https://api.github.com/repos/Brors94/33.Outdoor-Light-Controller/",
+      "fqa": "33.Outdoor_Light_Controller.fqa",    
+      "versionFile": "main",
+      "versionPattern": "local VERSION = \"([^\"]+)\"",
+      "ignore": ["Config"]
     },
     {
       "name": "Brors: 64.AMS Reader",
