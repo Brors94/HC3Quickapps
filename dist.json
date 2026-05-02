@@ -10,7 +10,8 @@
       "versionFile": "main",
       "versionPattern": "local VERSION = \"([^\"]+)\"",
       "ignore": ["Config"]
-    },{
+    },
+    {
       "name": "Brors: 31.Scene Controller",
       "uid": "JBS31",
       "description": "Scene Controller to Automate make scenes with settings Lights like you want them then save them with a press of a button, instead of making scenarios and block scenes",
@@ -19,7 +20,8 @@
       "versionFile": "main",
       "versionPattern": "local VERSION = \"([^\"]+)\"",
       "ignore": ["Config"]
-    },{
+    },
+    {
       "name": "Brors: 32.Easy Light Controller",
       "uid": "JBS32",
       "description": "Scene Controller to Automate make scenes with settings Lights like you want them then save them with a press of a button, instead of making scenarios and block scenes",
@@ -28,7 +30,8 @@
       "versionFile": "main",
       "versionPattern": "local VERSION = \"([^\"]+)\"",
       "ignore": ["Config"]
-    },{
+    },
+    {
       "name": "Brors: 33.Outdoor Light Controller",
       "uid": "JBS33",
       "description": "Automate your outdoorlight with a few click of setup after sunset and sunrise",
@@ -58,7 +61,17 @@
       "versionPattern": "local VERSION = \"([^\"]+)\"",
       "ignore": ["Config"]
     },
-        {
+    {
+      "name": "Brors: 974.Screen-Controller",
+      "uid": "JBS974",
+      "description": "974.Screen-Controller QA is an easy way to automate winda and lux controll for screens.",
+      "url": "https://api.github.com/repos/Brors94/974.Screen-Controller/",
+      "fqa": "974.Screens_Controller.fqa",    
+      "versionFile": "main",
+      "versionPattern": "local VERSION = \"([^\"]+)\"",
+      "ignore": ["Config"]
+    },
+    {
       "name": "Brors: 980.Settings Overview",
       "uid": "JBS980",
       "description": "AMS Reader HAN/P1 Energy Meter QA",
