@@ -74,7 +74,7 @@
     {
       "name": "Brors: 980.Settings Overview",
       "uid": "JBS980",
-      "description": "AMS Reader HAN/P1 Energy Meter QA",
+      "description": "Quickapp to check and monitor Cpu, Memory and settings",
       "url": "https://api.github.com/repos/Brors94/Settings-Overview/",
       "fqa": "980.Setting_Overview.fqa",    
       "versionFile": "main",
