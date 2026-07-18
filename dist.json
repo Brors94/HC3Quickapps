@@ -42,21 +42,21 @@
       "ignore": ["Config"]
     },
     {
-      "name": "Brors: 64.AMS Reader",
-      "uid": "JBS64",
-      "description": "AMS Reader HAN/P1 Energy Meter QA",
-      "url": "https://api.github.com/repos/Brors94/Ams-Reader/",
-      "fqa": "64._AMS_Reader.fqa",    
-      "versionFile": "main",
-      "versionPattern": "local VERSION = \"([^\"]+)\"",
-      "ignore": ["Config"]
-    },
-    {
       "name": "Brors: 63.AMS Reader Grid Norway",
       "uid": "JBS63",
       "description": "AMS Reader HAN/P1 Energy Meter QA",
       "url": "https://api.github.com/repos/Brors94/AMS-Reader-Grid-Norway/",
       "fqa": "63._AMS_Reader_Grid_Norway.fqa",    
+      "versionFile": "main",
+      "versionPattern": "local VERSION = \"([^\"]+)\"",
+      "ignore": ["Config"]
+    },
+    {
+      "name": "Brors: 64.AMS Reader",
+      "uid": "JBS64",
+      "description": "AMS Reader HAN/P1 Energy Meter QA",
+      "url": "https://api.github.com/repos/Brors94/Ams-Reader/",
+      "fqa": "64._AMS_Reader.fqa",    
       "versionFile": "main",
       "versionPattern": "local VERSION = \"([^\"]+)\"",
       "ignore": ["Config"]
