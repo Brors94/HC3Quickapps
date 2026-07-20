@@ -79,6 +79,15 @@
       "fqa": "980.Setting_Overview.fqa",    
       "versionFile": "main",
       "versionPattern": "local VERSION = \"([^\"]+)\""
+    },
+    {
+      "name": "Brors: 998.Modbus Chint NB2",
+      "uid": "JBS998",
+      "description": "Quickapp to Monitor and control the Smart Circuit Breaker From Chint NB2 over modbus.",
+      "url": "https://api.github.com/repos/Brors94/998.Modbus-Chint-NB2/",
+      "fqa": "998.Modbus_CHINT_NB2.fqa",    
+      "versionFile": "main",
+      "versionPattern": "local VERSION = \"([^\"]+)\""  
     }
   ]
 }
