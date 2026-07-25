@@ -66,7 +66,7 @@
       "uid": "JBS804",
       "description": "QA to read hc3 History or Influxdb2 Databases and display the data in SVG rendered Charts",
       "url": "https://api.github.com/repos/Brors94/804.History-Charts/",
-      "fqa": "64._AMS_Reader.fqa",    
+      "fqa": "804.History_Charts.fqa",    
       "versionFile": "main",
       "versionPattern": "local VERSION = \"([^\"]+)\"",
       "ignore": ["Config"]
@@ -86,7 +86,7 @@
       "uid": "JBS980",
       "description": "Quickapp to check and monitor Cpu, Memory and settings",
       "url": "https://api.github.com/repos/Brors94/Settings-Overview/",
-      "fqa": "804.History_Charts.fqa",    
+      "fqa": "980.Setting_Overview.fqa",    
       "versionFile": "main",
       "versionPattern": "local VERSION = \"([^\"]+)\""
     },
