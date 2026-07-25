@@ -62,6 +62,16 @@
       "ignore": ["Config"]
     },
     {
+      "name": "Brors: 804.History Charts",
+      "uid": "JBS804",
+      "description": "QA to read hc3 History or Influxdb2 Databases and display the data in SVG rendered Charts",
+      "url": "https://api.github.com/repos/Brors94/804.History-Charts/",
+      "fqa": "64._AMS_Reader.fqa",    
+      "versionFile": "main",
+      "versionPattern": "local VERSION = \"([^\"]+)\"",
+      "ignore": ["Config"]
+    },
+    {
       "name": "Brors: 974.Screen-Controller",
       "uid": "JBS974",
       "description": "974.Screen-Controller QA is an easy way to automate winda and lux controll for screens.",
