@@ -62,6 +62,16 @@
       "ignore": ["Config"]
     },
     {
+      "name": "Brors: 802.Growatt v4",
+      "uid": "JBS804",
+      "description": "QA to integrate Growatt inverters over their cloud API v4.",
+      "url": "https://api.github.com/repos/Brors94/802.Growatt-v4/",
+      "fqa": "802.Growatt_v4.fqa",    
+      "versionFile": "main",
+      "versionPattern": "local VERSION = \"([^\"]+)\"",
+      "ignore": ["Config"]
+    },
+    {
       "name": "Brors: 804.History Charts",
       "uid": "JBS804",
       "description": "QA to read hc3 History or Influxdb2 Databases and display the data in SVG rendered Charts",
