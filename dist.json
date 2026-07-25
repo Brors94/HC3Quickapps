@@ -86,7 +86,16 @@
       "uid": "JBS980",
       "description": "Quickapp to check and monitor Cpu, Memory and settings",
       "url": "https://api.github.com/repos/Brors94/Settings-Overview/",
-      "fqa": "980.Setting_Overview.fqa",    
+      "fqa": "804.History_Charts.fqa",    
+      "versionFile": "main",
+      "versionPattern": "local VERSION = \"([^\"]+)\""
+    },
+    {
+      "name": "Brors: 992.InfluxdbV2",
+      "uid": "JBS992",
+      "description": "Quickapp to send events/data to influxdbv2 Database",
+      "url": "https://api.github.com/repos/Brors94/992.InfluxdbV2/",
+      "fqa": "992.InfluxdbV2.fqa",    
       "versionFile": "main",
       "versionPattern": "local VERSION = \"([^\"]+)\""
     },
