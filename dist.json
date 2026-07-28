@@ -63,7 +63,7 @@
     },
     {
       "name": "Brors: 802.Growatt v4",
-      "uid": "JBS804",
+      "uid": "JBS802",
       "description": "QA to integrate Growatt inverters over their cloud API v4.",
       "url": "https://api.github.com/repos/Brors94/802.Growatt-v4/",
       "fqa": "802.Growatt_v4.fqa",    
