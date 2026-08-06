@@ -2,6 +2,16 @@
   "author": "Brors94",
   "quickApps": [
     {
+      "name": "Brors: 4.Variable Editor",
+      "uid": "JBS4",
+      "description": "Quickapp to edit quickappvariables from the mobile app.",
+      "url": "https://api.github.com/repos/Brors94/4.variable-editor/",
+      "fqa": "4.variable_editor.fqa",    
+      "versionFile": "main",
+      "versionPattern": "local VERSION = \"([^\"]+)\"",
+      "ignore": ["Config"]
+    },
+    {
       "name": "Brors: 30.Profile Light Controller",
       "uid": "JBS30",
       "description": "Profile Light Controller to Automate Room Light Control",
